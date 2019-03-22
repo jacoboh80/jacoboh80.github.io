@@ -92,3 +92,8 @@
 .honda {
   border-style: solid;
 }
+
+.dirtbikes1 img {
+  img {
+    max-width: 100%
+}
