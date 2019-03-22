@@ -1,0 +1,102 @@
+
+body {
+	margin: 0;
+background-color:#F5F5DC;
+	font-family: times;
+	font-weight: 800;
+}
+
+
+
+
+
+nav li {
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 23px;
+  position: relative;
+}
+
+nav a {
+
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+
+  .mainmenu {
+    text-align: center;
+
+
+
+
+  }
+
+.head {
+  text-align: center;
+
+  border-style: dashed; color: blue;
+
+
+
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+.history {
+text-align: center;
+
+}
+
+.title {
+	text-align: center;
+	text-decoration: underline;
+}
+
+.image1 {
+	height: 300px;
+	padding-top: 20px;
+	border-radius: 25%;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.title2 {
+	padding-top: 40px;
+text-align: center;
+text-decoration: underline;
+}
+
+.origins {
+background-color: powderblue;
+}
+
+.growth {
+	background-color: powderblue;
+
+}
+
+.innovation {
+	background-color: powderblue;
+
+}
+
+.today {
+	background-color: powderblue;
+
+}
+
+.pp {
+	text-align: center;
+	text-decoration: underline;
+}
+
+.dd {
+	text-align: center;
+	text-decoration: underline;
+}

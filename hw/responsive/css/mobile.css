@@ -1,0 +1,86 @@
+.history {
+
+   margin: 2rem;
+   display: grid;
+ grid-gap: 10px 10px;
+
+
+}
+
+.origins {
+  border-style: solid;
+}
+
+.growth {
+  border-style: solid;
+
+}
+
+.innovation {
+
+  border-style: solid;
+}
+
+.today {
+    border-style: solid;
+}
+
+
+.riders {
+
+   margin: 2rem;
+   display: grid;
+   grid-template-columns: 3fr;
+
+ grid-gap: 10px 10px;
+ text-align: center;
+
+}
+
+.riders img {
+  max-width: 100%
+}
+.ricky {
+  border-style: solid;
+}
+
+.stewart {
+  border-style: solid;
+}
+
+.Roczen {
+  border-style: solid;
+}
+
+.me {
+  display: grid;
+  grid-template-columns: 1fr 1fr
+  grid-gap: 10px 10px;
+  border-style: solid;
+}
+
+.dirtbikes1 {
+
+     display: grid;
+     grid-template-columns: 1fr;
+   }
+
+   .yamaha {
+     border-style: solid;
+   }
+
+   .ktm {
+     border-style: solid;
+   }
+
+   .kawasaki {
+     border-style: solid;
+   }
+
+   .Suzuki {
+     border-style: solid;
+   }
+
+   .honda {
+     border-style: solid;
+   }

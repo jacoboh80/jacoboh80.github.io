@@ -15,6 +15,7 @@ color: #C3BA46;
 h1 {
   font-family: fantasy;
   text-align: center;
+
 }
 
 address {
@@ -22,6 +23,13 @@ address {
 }
 h2 {
   text-align: center;
+  background: white;
+
+}
+h3:hover {
+  font-size:36px;
+    color:white;
+    font-weight:800;
 }
 h3 {
   font-family: monospace;
@@ -29,6 +37,7 @@ h3 {
   font-weight: bolder;
   color: #C3BA46;
   text-align: center;
+
 }
 
 h4 {
@@ -87,3 +96,20 @@ ul
   .class1 {
   text-decoration: underline;
    }
+
+   main {
+     display: block;
+
+   }
+.niceborder {
+  padding: 10px;
+  border: 2px;
+}
+
+.round {border-radius: 25%;
+}
+
+.borderlux {
+  padding: 10px;
+  border: 2px;
+}

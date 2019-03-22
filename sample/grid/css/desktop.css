@@ -1,0 +1,21 @@
+.grid {
+  display: grid;
+grid-template-columns: 100px 200px 300px 400px
+
+}
+
+div {
+border: 1px solid black
+}
+
+.grid2 {
+  margin-top: 100px;
+width: 960px;
+background: grey;
+  display: grid;
+grid-template-columns: 5fr 5fr 5fr;
+max-width: 100%;
+
+
+
+}
