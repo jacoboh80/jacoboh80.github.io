@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers');
+@import url('https://fonts.googleapis.com/css?family=Coda');
+body {
+  background-color: lightblue;
+}
+
+#stepinfo {
+font-family: 'Bangers';
+  background: white;
+
+
+.intro {
+font-weight: bold;
+font-size: 40px
+}
